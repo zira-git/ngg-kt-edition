@@ -24,7 +24,7 @@ fun main() {
         }
         val guess = input.toIntOrNull()
         if (guess == null) {
-            println("erm actually according to my calculations this input is invalid")
+            println("You professionally crashed your game lol")
         }
         attempts++
 
