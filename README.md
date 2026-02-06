@@ -12,3 +12,7 @@ Look over to releases and click "ngg-kt-edition" and click Assets and click "ngg
 Copy the code and paste into the Programiz Online Compiler: https://www.programiz.com/kotlin-programming/online-compiler/
 
 - ### P.S: Most online Kotlin compiler platforms throw EOF errors or deprecation errors because they aren't running OpenJDK 25 or run an older version of Kotlin
+
+# Codeberg
+- ### This repository will no longer be updated as it has migrated to Codeberg
+- ngg-kt-edition on Codeberg: https://codeberg.org/zira/ngg-kt-edition
