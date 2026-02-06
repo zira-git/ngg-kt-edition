@@ -11,4 +11,4 @@ Look over to releases and click "ngg-kt-edition" and click Assets and click "ngg
 # Method 3
 Copy the code and paste into the Programiz Online Compiler: https://www.programiz.com/kotlin-programming/online-compiler/
 
-# P.S: Most online Kotlin compiler platforms throw EOF errors or deprecation errors because they aren't running OpenJDK 25 or run an older version of Kotlin
+- ### P.S: Most online Kotlin compiler platforms throw EOF errors or deprecation errors because they aren't running OpenJDK 25 or run an older version of Kotlin
